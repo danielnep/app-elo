@@ -1,0 +1,2 @@
+# 01 | Abertura (Splash)
+Identidade premium do ELO. Tela dark #101319, ondas suaves e orgânicas em azul #84CFFF, rosa #F6A1CD e branco, com áreas de respiro. Logotipo vetorial de dois corações entrelaçados, um azul e outro rosa; nome **Elo** branco. Frase: "Conexões reais, com respeito, identidade e liberdade." Splash responsiva e acessível. Ao iniciar, decidir destino por sessão: onboarding ou descoberta/login. Sem spinner infinito. Registrar print de execução.

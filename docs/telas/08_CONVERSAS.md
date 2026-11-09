@@ -1,0 +1,2 @@
+# 08 | Chat privado
+Tela de conversa dark, cabeçalho com avatar/nome e selo real, bolhas recebidas grafite e enviadas rosa, timestamps, input com teclado seguro e botão enviar. Mensagens persistidas, atualizadas por WebSocket ou polling eficiente sem resetar UI; histórico paginado, vazios/erro, controles de bloqueio/denúncia. Nunca chat sem match ativo. Não expor telefones/endereço exato ou dados privados. Testes de permissão entre usuários.

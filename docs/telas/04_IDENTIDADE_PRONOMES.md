@@ -1,0 +1,2 @@
+# 04 | Identidade, pronomes e preferências de gênero
+Pergunta "Como você se identifica?" opções homem trans, mulher trans, homem cis, mulher cis. A seleção de identidade não determina quem a pessoa procura. Pronomes opcionais: ele/dele, ela/dela, elu/delu, outro personalizado ou prefiro não informar. Permitir edição posterior e privacidade. Visual: cards escuros contorno delicado, selecionado rosa, barra de progresso no topo, botão Continuar. Modelagem relacional adequada e teste de persistência.

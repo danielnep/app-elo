@@ -1,0 +1,2 @@
+# 02 | Boas-vindas e onboarding
+Imagem hero inclusiva de dois adultos sorrindo, consentida ou do banco de imagens demonstrativas autorizado; texto em sobreposição legível: "Bem-vinde ao Elo 💙💗🤍". Subtexto: "Um espaço de encontros para pessoas trans, com respeito, segurança e diversidade." Indicadores de progresso, botão rosa "Começar", link "Já tenho uma conta". Navegação real para criar conta / entrar. Permitir pular onboarding. Persistir estado de conclusão.

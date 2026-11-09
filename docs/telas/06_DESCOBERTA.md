@@ -1,0 +1,2 @@
+# 06 | Descoberta de perfis
+Feed de cartões com imagem vertical de adulto, nome, idade, identidade autodeclarada se pública, distância arredondada, interesses e eventual badge verificável. Ações rejeitar (X), curtir (coração), favoritos se implementado; likes persistidos, nunca mostrar a si, bloqueados ou incompatíveis. Bottom nav: Descobrir, Matches, Conversas, Perfil. UX visual forte com imagem, tipografia clara e botões grandes; cards não devem cortar textos. Demo com dados marcados.

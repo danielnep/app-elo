@@ -1,0 +1,2 @@
+# 10 | Segurança e privacidade
+Design dark premium com logo, ondas azul/rosa. Opções: Verificação de perfil (real ou estado pendente, nunca badge automático), Bloquear usuário, Denunciar (motivos e registro seguro), Dicas de segurança, visibilidade/localização, exportação/exclusão dos dados, termos e política de privacidade LGPD. Atos protegidos por autorização server-side, logs sem dados sensíveis. Confirmar fluxos desde UI ao banco em teste automatizado.

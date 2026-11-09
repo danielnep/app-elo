@@ -1,0 +1,2 @@
+# 03 | Cadastro, login e recuperação
+Criar conta com nome/apelido, e-mail, senha forte, data de nascimento (+18), aceite dos termos e privacidade, verificação de e-mail e autenticação persistida. Botão primário rosa. Login com credenciais, recuperar senha com link de tempo limitado. Google OAuth apenas quando configurado com credenciais válidas, sem botão mentiroso; Apple só se integrado, caso contrário remover até implementação. Erros reais, não simulações; mascarar senhas, loading e confirmação correta.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 144" role="img" aria-labelledby="title desc">
+<title id="title">Elo</title><desc id="desc">Dois corações entrelaçados, azul bebê e rosa.</desc>
+<defs><linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#ADE6FF"/><stop offset="1" stop-color="#84CFFF"/></linearGradient>
+<linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#FFC4E4"/><stop offset="1" stop-color="#F6A1CD"/></linearGradient></defs>
+<path d="M78 51 C62 18 20 27 20 61 C20 83 45 103 78 127 C111 103 137 83 137 61 C137 27 95 18 78 51Z" fill="none" stroke="url(#blue)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 53 C61 17 23 28 23 63 C23 83 47 103 80 126 C113 103 139 84 139 62 C139 29 100 18 80 53Z" fill="none" stroke="url(#pink)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="116 300" stroke-dashoffset="-5"/>
+</svg>

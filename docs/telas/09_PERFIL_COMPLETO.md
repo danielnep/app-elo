@@ -1,0 +1,2 @@
+# 09 | Perfil completo e edição
+Foto de capa, fotos adicionais, nome, idade, identidade se exibida, distância aproximada, descrição, interesses, dados opcionais, selo somente após verificação real. Permitir editar bio, fotos, interesses e privacidade no próprio perfil, remover foto, ocultar perfil, desativar/excluir conta. Perfil de terceiros inclui curtir/passar/bloquear/denunciar. Navegação para segurança. Fotos/demo sem estereótipos.

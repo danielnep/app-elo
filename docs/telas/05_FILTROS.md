@@ -1,0 +1,2 @@
+# 05 | Quem você quer conhecer?
+Check múltiplo INDEPENDENTE: homens cis, homens trans, mulheres cis, mulheres trans. Subtítulo "Quem você quer conhecer?". Outros filtros: até 50 km padrão ajustável, idade >=18, interesses e estilo de vida. Salvar preferências no backend e reusar no feed; filtros combináveis. Localização somente aproximada e opt-in. Aplicar filtros realmente altera resultados; estados de busca sem resultados e reset.
