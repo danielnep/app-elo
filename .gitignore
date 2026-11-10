@@ -16,3 +16,6 @@ app/ios/Flutter/Generated.xcconfig
 app/ios/Flutter/flutter_export_environment.sh
 **/.flutter-plugins*
 **/GeneratedPluginRegistrant.*
+*.sia.bak
+backend/node_modules/
+backend/data/
